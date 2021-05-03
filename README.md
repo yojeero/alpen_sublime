@@ -1,5 +1,6 @@
 # Alpen - Color Scheme
-A light Sublime Text color scheme based on EverEdit colors. Looks perfectly with default Adaptive theme + Fladaptive https://github.com/inta/sublime-theme-fladaptive (This is an adaption of the included adaptive theme. It is not a complete theme on its own, but provides additional tweaks to change the look to a more simple and reduced flat style.)
+
+A light [Sublime Text] (https://www.sublimetext.com) color scheme based on EverEdit colors. Looks perfectly with default Adaptive theme or [Meetio Theme](https://github.com/luxelego/sublime-meetio-theme).
 
 HTML
 
@@ -17,7 +18,7 @@ Free Font used - JetBrains Mono - https://www.jetbrains.com/lp/mono/.
 
 Installation
 
-Manually:
+Manually
 
 Download release
 Unzip the files
@@ -27,6 +28,8 @@ Copy the folder into your Sublime Text Packages directory file "alpen.sublime-co
 like C:\Program Files\Sublime\Data\Packages\alpen
 
 Use the theme: choose in menu - Preferences - Color Scheme - Alpen
+
+---
 
 You can add additional settings, which make the better view.
 
