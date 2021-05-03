@@ -1,6 +1,6 @@
 # Alpen - Color Scheme
 
-A light [Sublime Text] (https://www.sublimetext.com) color scheme based on EverEdit colors. Looks perfectly with default Adaptive theme or [Meetio Theme](https://github.com/luxelego/sublime-meetio-theme).
+A light [Sublime Text](https://www.sublimetext.com) color scheme based on EverEdit colors. Looks perfectly with default Adaptive theme or [Meetio Theme](https://github.com/luxelego/sublime-meetio-theme).
 
 HTML
 
