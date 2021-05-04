@@ -40,7 +40,7 @@ Type UI: Select Color Scheme locate alpen and press ENTER.
 Manually you can go to (Preferences > Settings - User) and paste the following code:
 "color_scheme": "Packages/Alpen/alpen.sublime-color-scheme",
 
-# You can add additional settings, which make the better view.
+# Customization
 
 	"theme": "Adaptive.sublime-theme",
 	"color_scheme": "Packages/Alpen/alpen.sublime-color-scheme",	
