@@ -1,4 +1,4 @@
-# Alpen - Color Scheme
+# Alpen Color Scheme
 
 A light [Sublime Text](https://www.sublimetext.com) color scheme. 
 
