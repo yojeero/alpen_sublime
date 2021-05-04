@@ -17,16 +17,29 @@ Javascript
 
 Free Font used - [JetBrains Mono](https://www.jetbrains.com/lp/mono/).
 
-# Installation Manually
+# Installation
 
-Download release
-Unzip the files
-Find your Packages directory using the menu item Preferences -> Browse Packages...
-Copy the folder into your Sublime Text Packages directory file "alpen.sublime-color-scheme" or "alpen.tmTheme" 
+Easy:
 
-like C:\Program Files\Sublime\Data\Packages\alpen
+Open Command Palette using the menu item Tools → Command Palette or CMD/CTRL + SHIFT +P.
+Choose Package Control: Install Package.
+Type Alpen and press ENTER.
 
-Use the theme: choose in menu - Preferences - Color Scheme - Alpen
+# Manually:
+
+Download the latest release and unzip. it into your Packages folder.
+Go to Sublime Text → Preferences → Browse Packages.
+Rename the folder to Alpen.
+
+# Activate Theme
+
+You can active this theme from:
+
+Command Palette Tools → Command Palette or CMD/CTRL + SHIFT + P.
+Type UI: Select Theme locate alpen.sublime-theme and press ENTER.
+Type UI: Select Color Scheme locate alpen and press ENTER.
+Manually you can go to (Preferences > Settings - User) and paste the following code:
+"color_scheme": "Packages/Alpen/alpen.sublime-color-scheme",
 
 # You can add additional settings, which make the better view.
 
