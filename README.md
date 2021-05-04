@@ -5,15 +5,15 @@ A light [Sublime Text](https://www.sublimetext.com) color scheme based on EverEd
 
 HTML
 
-![preview_1](https://user-images.githubusercontent.com/83571301/116864237-35fa9180-ac10-11eb-9a3a-f1f0ca9af6ae.png)
+![HTML preview](../main/doc/alpen_html.png)
 
 CSS
 
-![preview_2](https://user-images.githubusercontent.com/83571301/116864262-4448ad80-ac10-11eb-8869-1e26284fa6f1.png)
+![CSS preview](../main/doc/alpen_css.png)
 
 Javascript
 
-![preview_3](https://user-images.githubusercontent.com/83571301/116864278-4a3e8e80-ac10-11eb-82ef-da6d209223f6.png)
+![JS preview](../main/doc/alpen_js.png)
 
 Free Font used - [JetBrains Mono](https://www.jetbrains.com/lp/mono/).
 
