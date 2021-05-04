@@ -43,16 +43,13 @@ Manually you can go to (Preferences > Settings - User) and paste the following c
 # You can add additional settings, which make the better view.
 
 	"theme": "Adaptive.sublime-theme",
-	"color_scheme": "Packages/Alpen/alpen.sublime-color-scheme",
-	"caret_blink_interval": 2,
+	"color_scheme": "Packages/Alpen/alpen.sublime-color-scheme",	
 	"caret_extra_bottom": 1,
 	"caret_extra_top": 1,
-	"caret_extra_width": 0,
-	"caret_style": "phase",	
+	"caret_extra_width": 0,	
 	"font_face": "JetBrains Mono",
-	"font_size": 9,
-	"gutter": true,
+	"font_size": 9,	
 	"highlight_modified_tabs": true,
 	"line_padding_bottom": 1,
 	"line_padding_top": 1,
-	"margin": 8,
+	
