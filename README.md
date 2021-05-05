@@ -18,8 +18,6 @@ Free Font used - [JetBrains Mono](https://www.jetbrains.com/lp/mono/).
 
 # Installation
 
-Easy:
-
 Open Command Palette using the menu item Tools → Command Palette or CMD/CTRL + SHIFT +P.\
 Choose Package Control: Install Package.\
 Type Alpen and press ENTER.
