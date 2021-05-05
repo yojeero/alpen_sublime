@@ -20,24 +20,24 @@ Free Font used - [JetBrains Mono](https://www.jetbrains.com/lp/mono/).
 
 Easy:
 
-Open Command Palette using the menu item Tools → Command Palette or CMD/CTRL + SHIFT +P.
-Choose Package Control: Install Package.
+Open Command Palette using the menu item Tools → Command Palette or CMD/CTRL + SHIFT +P.\
+Choose Package Control: Install Package.\
 Type Alpen and press ENTER.
 
 # Manually:
 
-Download the latest release and unzip. it into your Packages folder.
-Go to Sublime Text → Preferences → Browse Packages.
+Download the latest release and unzip. it into your Packages folder.\
+Go to Sublime Text → Preferences → Browse Packages.\
 Rename the folder to Alpen.
 
 # Activate Theme
 
-You can active this theme from:
+You can active this theme from:\
 
-Command Palette Tools → Command Palette or CMD/CTRL + SHIFT + P.
-Type UI: Select Theme locate alpen.sublime-theme and press ENTER.
-Type UI: Select Color Scheme locate alpen and press ENTER.
-Manually you can go to (Preferences > Settings - User) and paste the following code:
+Command Palette Tools → Command Palette or CMD/CTRL + SHIFT + P.\
+Type UI: Select Theme locate alpen.sublime-theme and press ENTER.\
+Type UI: Select Color Scheme locate alpen and press ENTER.\
+Manually you can go to (Preferences > Settings - User) and paste the following code:\
 "color_scheme": "Packages/Alpen/alpen.sublime-color-scheme",
 
 # Customization
