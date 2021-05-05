@@ -1,18 +1,18 @@
-# Alpen - Color Scheme
+# Alpen Color Scheme
 
 A light [Sublime Text](https://www.sublimetext.com) color scheme. 
 
 HTML
 
-![HTML preview](../main/doc/alpen_html.png)
+![HTML preview](../main/docs/alpen_html.png)
 
 CSS
 
-![CSS preview](../main/doc/alpen_css.png)
+![CSS preview](../main/docs/alpen_css.png)
 
 Javascript
 
-![JS preview](../main/doc/alpen_js.png)
+![JS preview](../main/docs/alpen_js.png)
 
 Free Font used - [JetBrains Mono](https://www.jetbrains.com/lp/mono/).
 
@@ -40,19 +40,16 @@ Type UI: Select Color Scheme locate alpen and press ENTER.
 Manually you can go to (Preferences > Settings - User) and paste the following code:
 "color_scheme": "Packages/Alpen/alpen.sublime-color-scheme",
 
-# You can add additional settings, which make the better view.
+# Customization
 
 	"theme": "Adaptive.sublime-theme",
-	"color_scheme": "Packages/Alpen/alpen.sublime-color-scheme",
-	"caret_blink_interval": 2,
+	"color_scheme": "Packages/Alpen/alpen.sublime-color-scheme",	
 	"caret_extra_bottom": 1,
 	"caret_extra_top": 1,
-	"caret_extra_width": 0,
-	"caret_style": "phase",	
+	"caret_extra_width": 0,	
 	"font_face": "JetBrains Mono",
-	"font_size": 9,
-	"gutter": true,
+	"font_size": 9,	
 	"highlight_modified_tabs": true,
 	"line_padding_bottom": 1,
 	"line_padding_top": 1,
-	"margin": 8,
+	
