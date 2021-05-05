@@ -30,8 +30,6 @@ Rename the folder to Alpen.
 
 # Activate Theme
 
-You can active this theme from:
-
 Command Palette Tools → Command Palette or CMD/CTRL + SHIFT + P.\
 Type UI: Select Theme locate alpen.sublime-theme and press ENTER.\
 Manually you can go to (Preferences > Settings - User) and paste the following code:\
