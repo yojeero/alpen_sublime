@@ -4,15 +4,15 @@ A light [Sublime Text](https://www.sublimetext.com) color scheme.
 
 HTML
 
-![HTML preview](../main/docs/alpen_html.png)
+![HTML preview](../main/docs/html.png)
 
 CSS
 
-![CSS preview](../main/docs/alpen_css.png)
+![CSS preview](../main/docs/css.png)
 
 Javascript
 
-![JS preview](../main/docs/alpen_js.png)
+![JS preview](../main/docs/js.png)
 
 Free Font used - [JetBrains Mono](https://www.jetbrains.com/lp/mono/).
 
