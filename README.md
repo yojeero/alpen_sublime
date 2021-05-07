@@ -2,17 +2,9 @@
 
 A light [Sublime Text](https://www.sublimetext.com) color scheme. 
 
-HTML
+HTML+ CSS + Javascript
 
-![HTML preview](../main/docs/html.png)
-
-CSS
-
-![CSS preview](../main/docs/css.png)
-
-Javascript
-
-![JS preview](../main/docs/js.png)
+![HTML preview](../main/docs/view.png)
 
 Free Font used - [JetBrains Mono](https://www.jetbrains.com/lp/mono/).
 
@@ -48,7 +40,7 @@ Manually you can go to (Preferences > Settings - User) and paste the following c
 	"caret_extra_top": 1,
 	"caret_extra_width": 0,	
 	"font_face": "JetBrains Mono",
-	"font_size": 9,	
+	"font_size": 10,	
 	"highlight_modified_tabs": true,
 	"line_padding_bottom": 1,
 	"line_padding_top": 1,
