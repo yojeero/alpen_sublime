@@ -23,12 +23,12 @@ Rename the folder to Alpen.
 Command Palette Tools → Command Palette or CMD/CTRL + SHIFT + P.\
 Type UI: Select Theme locate alpen.sublime-theme and press ENTER.\
 Manually you can go to (Preferences > Settings - User) and paste the following code:\
-"color_scheme": "Packages/Alpen/alpen.sublime-color-scheme",
+"color_scheme": "Packages/Alpen/Alpen.sublime-color-scheme",
 
 # Customization
 
 	"theme": "Adaptive.sublime-theme",
-	"color_scheme": "Packages/Alpen/alpen.sublime-color-scheme",	
+	"color_scheme": "Packages/Alpen/Alpen.sublime-color-scheme",	
 	"caret_extra_bottom": 1,
 	"caret_extra_top": 1,
 	"caret_extra_width": 0,	
