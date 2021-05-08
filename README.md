@@ -2,8 +2,6 @@
 
 A light [Sublime Text](https://www.sublimetext.com) color scheme. 
 
-HTML + CSS + Javascript
-
 ![HTML preview](../main/docs/view.png)
 
 Free Font used - [JetBrains Mono](https://www.jetbrains.com/lp/mono/).
