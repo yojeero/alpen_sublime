@@ -2,7 +2,7 @@
 
 A light [Sublime Text](https://www.sublimetext.com) color scheme. 
 
-HTML+ CSS + Javascript
+HTML + CSS + Javascript
 
 ![HTML preview](../main/docs/view.png)
 
@@ -39,4 +39,3 @@ Manually you can go to (Preferences > Settings - User) and paste the following c
 	"highlight_modified_tabs": true,
 	"line_padding_bottom": 1,
 	"line_padding_top": 1,
-	
