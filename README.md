@@ -1,4 +1,4 @@
-![preview](../main/docs/logo.png)
+![preview](../main/docs/brand.png)
 
 ## Alpen - a [Sublime Text](https://www.sublimetext.com) color scheme.
 
