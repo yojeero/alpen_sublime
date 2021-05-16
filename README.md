@@ -4,13 +4,25 @@
 
 A light Sublime Text color scheme.
 
-[![Packagecontrol total downloads](https://img.shields.io/packagecontrol/dt/Alpen%20Color%20Scheme.svg?style=flat-square)](https://packagecontrol.io/packages/Alpen%20Color%20Scheme/)
-[![GitHub watchers](https://img.shields.io/github/watchers/luxelego/alpen_color_scheme.svg?style=flat-square)](https://github.com/luxelego/alpen_color_scheme/watchers)
-
-
 <img src="../main/docs/spacer.png" width="1" height="1">
 
 ![preview](../main/docs/view.png)
+
+<p align="center">
+	
+<a href="https://packagecontrol.io/packages/Alpen%20Color%20Scheme" title="Package Control">
+<img src="https://img.shields.io/packagecontrol/dt/Alpen%20Color%20Scheme?style=for-the-badge"/>
+</a>	
+
+<a href="https://github.com/release/luxelego/alpen_color_scheme" title="GitHub tag">
+<img src="https://img.shields.io/github/release/luxelego/alpen_color_scheme.svg?style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/luxelego/alpen_color_scheme/blob/main/LICENSE" title="License">
+<img src="https://img.shields.io/github/license/luxelego/alpen_color_scheme.svg?style=for-the-badge"/>
+</a>
+
+</p>
 
 <img src="../main/docs/spacer.png" width="1" height="1">
 
