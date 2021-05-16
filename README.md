@@ -1,5 +1,4 @@
-
-<img src="../main/docs/spacer.png" width="1" height="1">
+![preview](../main/docs/logo.png)
 
 ## Alpen - a [Sublime Text](https://www.sublimetext.com) color scheme.
 
