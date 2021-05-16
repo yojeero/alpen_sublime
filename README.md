@@ -10,11 +10,11 @@ A light Sublime Text color scheme.
 
 <p align="center">
 	
-<a href="https://packagecontrol.io/packages/Alpen%20Color%20Scheme" title="Package Control">
+<a href="https://packagecontrol.io/packages/Alpen%20Color%20Scheme" title="Downloads">
 <img src="https://img.shields.io/packagecontrol/dt/Alpen%20Color%20Scheme?style=for-the-badge"/>
 </a>	
 
-<a href="https://github.com/release/luxelego/alpen_color_scheme" title="GitHub tag">
+<a href="https://github.com/release/luxelego/alpen_color_scheme" title="Release">
 <img src="https://img.shields.io/github/release/luxelego/alpen_color_scheme.svg?style=for-the-badge"/>
 </a>
 
