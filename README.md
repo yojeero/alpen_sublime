@@ -57,4 +57,4 @@ Using the Command Palette, search for **UI: Select color scheme** and select:
 
 ## Usage license
 
-This work is licensed under a [MIT](https://github.com/luxelego/alpen_color_scheme/blob/main/LICENSE).
+This work is licensed under a [MIT license](https://github.com/luxelego/alpen_color_scheme/blob/main/LICENSE).
