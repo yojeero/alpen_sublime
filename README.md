@@ -8,7 +8,7 @@ A light Sublime Text color scheme.
 
 ![preview](../main/docs/view.png)
 
-<p align="center">
+<p>
 	
 <a href="https://packagecontrol.io/packages/Alpen%20Color%20Scheme" title="Downloads">
 <img src="https://img.shields.io/packagecontrol/dt/Alpen%20Color%20Scheme?style=for-the-badge"/>
