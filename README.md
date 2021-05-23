@@ -1,4 +1,4 @@
-![preview](../main/docs/brand.png)
+![preview](../main/docs/brand-new.png)
 
 ## Alpen - a [Sublime Text](https://www.sublimetext.com) color scheme.
 
@@ -6,7 +6,7 @@ A light Sublime Text color scheme.
 
 <img src="../main/docs/spacer.png" width="1" height="1">
 
-![preview](../main/docs/view.png)
+![preview](../main/docs/view-new.png)
 
 <p>
 	
@@ -32,7 +32,7 @@ A light Sublime Text color scheme.
 
 ## Install using Package Control
 
-[<img src="../main/docs/install.png" width="190" height="48">](https://packagecontrol.io/packages/Alpen%20Color%20Scheme)
+[<img src="../main/docs/install-new.png" width="190" height="48">](https://packagecontrol.io/packages/Alpen%20Color%20Scheme)
 
 You can easily install the Alpen Color Scheme by using **Package Control** from the **Command Palette**:
 
