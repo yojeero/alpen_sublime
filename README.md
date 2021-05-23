@@ -4,8 +4,6 @@
 
 A light Sublime Text color scheme.
 
-<img src="../main/docs/spacer.png" width="1" height="1">
-
 ![preview](../main/docs/view-new.png)
 
 <p>
