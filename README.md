@@ -52,7 +52,7 @@ Using the Command Palette, search for **UI: Select color scheme** and select:
 
 - go to **Preferences > Color Scheme** and select **Alpen**
 
-<img src="../main/docs/spacer.png" width="1" height="1">
+<img src="docs/spacer.png" width="1" height="1">
 
 **Customization**
 
