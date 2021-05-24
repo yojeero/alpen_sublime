@@ -1,7 +1,7 @@
 
 <img src="docs/brand-new.png" >
 
-## Alpen - a light [Sublime Text](https://www.sublimetext.com) color scheme.
+## Alpen - a light [Sublime Text](https://www.sublimetext.com) color scheme
 
 <img src="docs/view-new.png" >
 
@@ -11,11 +11,11 @@
 
 <img src="docs/spacer.png" width="1" height="1">
 
-### Free Font used - [JetBrains Mono](https://www.jetbrains.com/lp/mono/).
+### Free Font used - [JetBrains Mono](https://www.jetbrains.com/lp/mono/)
 
 <img src="docs/spacer.png" width="1" height="1">
 
-## Install using Package Control  from the **Command Palette**
+## Install using Package Control
 
 1. Enter `Package Control: Install Package`
 2. Search for `Alpen Color Scheme`
