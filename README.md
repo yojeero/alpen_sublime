@@ -1,15 +1,13 @@
 
 <img src="docs/brand-new.png" >
 
-## Alpen - a [Sublime Text](https://www.sublimetext.com) color scheme.
-
-A light Sublime Text color scheme.
+## Alpen - a light [Sublime Text](https://www.sublimetext.com) color scheme.
 
 <img src="docs/view-new.png" >
 
-[![Downloads](https://img.shields.io/packagecontrol/dt/Alpen%2520Color%2520Scheme?logo=Sublime%20Text&style=for-the-badge)](https://packagecontrol.io/packages/Alpen%20Color%20Scheme)
-[![Version](https://img.shields.io/github/v/release/luxelego/alpen_color_scheme?logo=Sublime%20Text&style=for-the-badge)](https://packagecontrol.io/packages/Alpen%20Color%20Scheme)
-[![License](https://img.shields.io/github/license/luxelego/alpen_color_scheme?logo=Sublime%20Text&style=for-the-badge)](https://github.com/luxelego/alpen_color_scheme/blob/main/LICENSE)
+[![Downloads](https://img.shields.io/packagecontrol/dt/Alpen%2520Color%2520Scheme?style=social)](https://packagecontrol.io/packages/Alpen%20Color%20Scheme)
+[![Version](https://img.shields.io/github/v/release/luxelego/alpen_color_scheme?style=social)](https://packagecontrol.io/packages/Alpen%20Color%20Scheme)
+[![License](https://img.shields.io/github/license/luxelego/alpen_color_scheme?style=social)](https://github.com/luxelego/alpen_color_scheme/blob/main/LICENSE)
 
 <img src="docs/spacer.png" width="1" height="1">
 
@@ -17,11 +15,7 @@ A light Sublime Text color scheme.
 
 <img src="docs/spacer.png" width="1" height="1">
 
-## Install using Package Control
-
-[<img src="docs/install-new.png" width="190" height="48">](https://packagecontrol.io/packages/Alpen%20Color%20Scheme)
-
-You can easily install the Alpen Color Scheme by using **Package Control** from the **Command Palette**:
+## Install using Package Control  from the **Command Palette**
 
 1. Enter `Package Control: Install Package`
 2. Search for `Alpen Color Scheme`
