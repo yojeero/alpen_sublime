@@ -7,21 +7,9 @@ A light Sublime Text color scheme.
 
 <img src="docs/view-new.png" >
 
-<p>
-	
-<a href="https://packagecontrol.io/packages/Alpen%20Color%20Scheme" title="Downloads">
-<img src="https://img.shields.io/packagecontrol/dt/Alpen%20Color%20Scheme?style=for-the-badge"/>
-</a>	
-
-<a href="https://github.com/release/luxelego/alpen_color_scheme" title="Release">
-<img src="https://img.shields.io/github/release/luxelego/alpen_color_scheme.svg?style=for-the-badge"/>
-</a>
-
-<a href="https://github.com/luxelego/alpen_color_scheme/blob/main/LICENSE" title="License">
-<img src="https://img.shields.io/github/license/luxelego/alpen_color_scheme.svg?style=for-the-badge"/>
-</a>
-
-</p>
+[![Downloads](https://img.shields.io/packagecontrol/dt/Alpen%2520Color%2520Scheme?logo=Sublime%20Text&style=for-the-badge)](https://packagecontrol.io/packages/Alpen%20Color%20Scheme)
+[![Version](https://img.shields.io/github/v/release/luxelego/alpen_color_scheme?logo=Sublime%20Text&style=for-the-badge)](https://packagecontrol.io/packages/Alpen%20Color%20Scheme)
+[![License](https://img.shields.io/github/license/luxelego/alpen_color_scheme?logo=Sublime%20Text&style=for-the-badge)](https://github.com/luxelego/alpen_color_scheme/blob/main/LICENSE)
 
 <img src="docs/spacer.png" width="1" height="1">
 
