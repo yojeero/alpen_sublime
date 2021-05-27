@@ -1,8 +1,8 @@
-<img src="img/top.jpg" >
+<img src="img/main.jpg" >
 
 ## Alpen - a light [Sublime Text](https://www.sublimetext.com) color scheme
 
-<img src="img/look.png" >
+<img src="img/code.png" >
 
 ### Free Font used - [JetBrains Mono](https://www.jetbrains.com/lp/mono/)
 
