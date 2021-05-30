@@ -38,7 +38,7 @@ Using the Command Palette, search for **UI: Select color scheme** and select:
 	
 ## Sublime Text App icons	
 
-Download the **[Sublime Text icons](https://github.com/luxelego/sublime_icons)** app replacement. Take .tif file with layers for made icons by youself.
+Download the **[Sublime Text icons](https://github.com/luxelego/sublime_icons)** app replacement. 
 
 [<img src="https://github.com/luxelego/sublime_icons/blob/main/png/st1.png" width="256" height="256">](https://github.com/luxelego/sublime_icons)  [<img src="https://github.com/luxelego/sublime_icons/blob/main/png/st2.png" width="256" height="256">](https://github.com/luxelego/sublime_icons)  [<img src="https://github.com/luxelego/sublime_icons/blob/main/png/st3.png" width="256" height="256">](https://github.com/luxelego/sublime_icons)
 
