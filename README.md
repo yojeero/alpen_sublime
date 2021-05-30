@@ -36,7 +36,7 @@ Using the Command Palette, search for **UI: Select color scheme** and select:
 	
 	**Sublime Text app icons**
 	
-## Sublime Text App Icon	
+## Sublime Text Icon	
 
 Download the **[Sublime Text](https://github.com/luxelego/sublime_icons)** app icon replacement. 
 
