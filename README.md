@@ -32,10 +32,8 @@ Using the Command Palette, search for **UI: Select color scheme** and select:
 	"font_size": 10,	
 	"highlight_modified_tabs": true,
 	"line_padding_bottom": 1,
-	"line_padding_top": 1,
+	"line_padding_top": 1,	
 	
-	**Sublime Text app icons**
-
 ## Usage license
 
 This work is licensed under a [MIT license](https://github.com/luxelego/alpen_color_scheme/blob/main/LICENSE).
