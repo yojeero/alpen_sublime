@@ -1,8 +1,8 @@
 {
     "name": "Alpen",
-    "homepage": "https://github.com/luxelego/alpen_color_scheme",
+    "homepage": "https://github.com/yojeero/alpen_sublime",
     "description": "Light color scheme",    
-    "author": "Yoko",
+    "author": "@yojeero",
     "variables": 
 {
     "bg":  "#f9f9f5",     
