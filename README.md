@@ -1,6 +1,6 @@
-<img src="img/main.jpg" >
+<img src="img/main.jpg" width="100%" max-width="800px">
 
-### Alpen - a light [Sublime Text](https://www.sublimetext.com) color scheme.
+## Alpen - a light [Sublime Text](https://www.sublimetext.com) color scheme.
 
 <img src="img/code.png" >
 
