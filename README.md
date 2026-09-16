@@ -1,6 +1,6 @@
 <img src="img/main.jpg" width="100%" max-width="800px">
 
-## Alpen - a light [Sublime Text](https://www.sublimetext.com) color scheme.
+# Alpen - a light [Sublime Text](https://www.sublimetext.com) color scheme.
 
 <img src="img/code.png" >
 
@@ -17,6 +17,6 @@ Using the Command Palette, search for **UI: Select color scheme** and select:
 
 - **Alpen**.sublime-color-scheme
 
-### Another way
+## Another way
 
 - go to **Preferences > Color Scheme** and select **Alpen**
