@@ -1,6 +1,8 @@
 <img src="img/alpen.jpg" width="100%" max-width="800px">
 
-### `Alpen - the light Sublime Text color scheme.`
+### `Alpen - the light color scheme.`   
+
+> Sublime Text 
 
 Install using Package Control
 
