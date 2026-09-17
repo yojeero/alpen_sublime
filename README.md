@@ -1,8 +1,8 @@
-<img src="img/alpen.jpg" width="100%" max-width="800px">
+<img src="img/alpen.jpg" width="100%">
 
-### `Alpen - the light color scheme.`   
+<img src="https://img.shields.io/badge/Alpen-7678ed?style=for-the-badge" width="40%" alt="Alpen">   
 
-> Sublime Text 
+> Sublime Text - the light color scheme.
 
 Install using Package Control
 
